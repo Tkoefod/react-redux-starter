@@ -7,6 +7,6 @@ module.exports = React.createClass({
     alert("i was clicked");
   },
   render: function(){
-    return (<div> <h1 onClick={this.onMyClick}>Hays Worlds!!!! </h1> <p>this is a react component </p></div>);
+    return (<div> <h1 onClick={this.onMyClick}>Hays Worlds! </h1> <p>this is a react component  </p></div>);
   }
 });

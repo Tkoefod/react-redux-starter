@@ -9,3 +9,4 @@
 - compile with watcher: `webpack --progress --colors --watch`
 - run dev server with browser sync: `webpack-dev-server --progress --colors`
   - compiles to memory only doesn't write compiled code out to disk.
+  - location: `http://localhost:8080/webpack-dev-server/bundle`
